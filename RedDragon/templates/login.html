@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+{% extends "base.html" %}
+{% import "bootstrap/wtf.html" as wtf %}
+{% block title %}红龙{% endblock %}
+{% block page_content %}
+<style type="text/css", class="gray">
+body {
+    margin: 0;
+    background-image: url('../static/background.jpg');
+    background-repeat:no-repeat;
+        background-position:0% 0%;
+    background-size:cover;
+    background-color: #22C3AA;
+}
+</style>
+<div class="page-header">
+ <h1>欢迎访问！</h1>
+</div>
+    <form action="/movie/login" method="post">
+    {{ wtf.quick_form(form) }}
+
+    </form>
+
+{% endblock %}
