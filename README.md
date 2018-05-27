@@ -4,10 +4,10 @@ Spark1.6版本，MovieLens 10M左右的数据集，Windows环境下的单机spar
 
 项目效果演示
 
-https://github.com/sunheqing/RedDragon/blob/master/RedDragon/show/1.png
+![image](https://github.com/sunheqing/RedDragon/blob/master/RedDragon/show/1.png)
 
-https://github.com/sunheqing/RedDragon/blob/master/RedDragon/show/2.png
+![image](https://github.com/sunheqing/RedDragon/blob/master/RedDragon/show/2.png)
 
-https://github.com/sunheqing/RedDragon/blob/master/RedDragon/show/3.png
+![image](https://github.com/sunheqing/RedDragon/blob/master/RedDragon/show/3.png)
 
-https://github.com/sunheqing/RedDragon/blob/master/RedDragon/show/4.png
+![image](https://github.com/sunheqing/RedDragon/blob/master/RedDragon/show/4.png)
